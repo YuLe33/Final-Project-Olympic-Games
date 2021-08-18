@@ -1,3 +1,3 @@
 OPEN WITH BLIDER
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/yule33-final-pr-l_premierleague-7kenw75c/tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/YuLe33/Final-Project-df_full_premierleague/blob/main/final-project2.ipynb)
